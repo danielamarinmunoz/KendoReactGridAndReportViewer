@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DanielaMarínMuñoz\\projects\\reporting-samples2\\KendoReactGridAndReportViewer\\ReportingRESTService\\CSharp.Net6.ReportingRestServiceCorsDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DanielaMarínMuñoz\\projects\\reporting-samples2\\KendoReactGridAndReportViewer\\ReportingRESTService\\CSharp.Net6.ReportingRestServiceCorsDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DanielaMarínMuñoz\\projects\\reporting-samples2\\KendoReactGridAndReportViewer\\ReportingRESTService\\CSharp.Net6.ReportingRestServiceCorsDemo.csproj",
+        "projectName": "CSharp.Net6.ReportingRestServiceCorsDemo",
+        "projectPath": "C:\\Users\\DanielaMarínMuñoz\\projects\\reporting-samples2\\KendoReactGridAndReportViewer\\ReportingRESTService\\CSharp.Net6.ReportingRestServiceCorsDemo.csproj",
+        "packagesPath": "C:\\Users\\DanielaMarínMuñoz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DanielaMarínMuñoz\\projects\\reporting-samples2\\KendoReactGridAndReportViewer\\ReportingRESTService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DanielaMarínMuñoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Telerik.Reporting.OpenXmlRendering.Trial": {
+              "target": "Package",
+              "version": "[16.0.22.217-hotfix, )"
+            },
+            "Telerik.WebReportDesigner.Services.Trial": {
+              "target": "Package",
+              "version": "[16.0.22.217-hotfix, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

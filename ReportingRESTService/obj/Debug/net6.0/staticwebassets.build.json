@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "flCM+OkwVhvKL8tWRvj45JGs1RVq8XnCovmyVRMyr3c=",
+  "Source": "CSharp.Net6.ReportingRestServiceCorsDemo",
+  "BasePath": "_content/CSharp.Net6.ReportingRestServiceCorsDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CSharp.Net6.ReportingRestServiceCorsDemo\\wwwroot",
+      "Source": "CSharp.Net6.ReportingRestServiceCorsDemo",
+      "ContentRoot": "C:\\Users\\DanielaMarínMuñoz\\projects\\reporting-samples2\\KendoReactGridAndReportViewer\\ReportingRESTService\\wwwroot\\",
+      "BasePath": "_content/CSharp.Net6.ReportingRestServiceCorsDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DanielaMarínMuñoz\\projects\\reporting-samples2\\KendoReactGridAndReportViewer\\ReportingRESTService\\wwwroot\\index.html",
+      "SourceId": "CSharp.Net6.ReportingRestServiceCorsDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DanielaMarínMuñoz\\projects\\reporting-samples2\\KendoReactGridAndReportViewer\\ReportingRESTService\\wwwroot\\",
+      "BasePath": "_content/CSharp.Net6.ReportingRestServiceCorsDemo",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
